@@ -1,0 +1,134 @@
+---
+title: "Scarlett Winters' Resume"
+author: Scarlett Winters
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> winters.scarlett.e@gmail.com
+- <i class="fa fa-linkedin"></i> [/scarlett-winters](www.linkedin.com/in/scarlett-winters)
+- <i class="fa fa-github"></i> [github.com/scarlett425](https://github.com/scarlett425)
+- <i class="fa fa-phone"></i> (312) 805-9540
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- SQL
+- Excel
+- Tableau
+- R
+- Python
+- Data visualization
+- Data presentation
+- Requirements analysis
+- Predictive analytics
+
+Fun Facts {#projects}
+--------------------------------------------------------------------------------
+
+- This resume was written using the pagedown package in R.
+
+- Board member for [R-Ladies Chicago](https://rladieschicago.org)
+
+- Former projects include: 
+  - A predictive analysis of Chicago crime data in Python
+  
+  - Python-based UI (Tkinter) to predict Kickstarter success
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Scarlett Winters {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Loyola University Chicago
+
+B.A. in Political Science
+
+Chicago, IL
+
+2017
+
+M.S. in Information Systems Management
+
+Chicago, IL
+
+2019
+
+Focused on the intersection of business and data: database modeling, mining, and visualization using SQL, Python, R and Tableau
+
+
+Projects & Research {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Project IBIS: Puerto Rico Emergency Response Data Collection
+
+Chicago, IL
+
+March 2019 - July 2019
+
+- Consulted non-profits and FEMA representatives in Puerto Rico on data collection methods
+- Led a team to conduct requirements analysis for an ArcGIS-powered application to locate and disperse emergency resources ahead of a natural disaster in Puerto Rico
+
+### Voter Identification Research
+
+Loyola University Chicago
+
+Chicago, IL
+
+- Conducted multivariate linear regression analysis on 14 years of social survey and legislative data in STATA
+- Visualized chronological and geographic data in Tableau
+- Presented at 3 national conferences in 2016 adnd 2017
+  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Client Training Specialist
+
+Strata Decision Technology
+
+Chicago, IL
+
+Jan. 2020 - Present
+
+- Lead world-class analytics trainings to empower adult learners of various levels of expertise with the skills to study financial trends in our SaaS platform, StrataJazz
+- Promote data governance best practices by enhancing client-facing Data Integration trainings
+
+### Data Integration Analyst
+
+Strata Decision Technology
+
+Chicago, IL
+
+May 2018 - Dec. 2019
+
+- Explored data quality, troubleshot anomalies and answered business questions through SQL querying on large datasets (40 million rows) 
+- Led trainings on data validation and data maintenance tailored to individual clients' business needs
+
