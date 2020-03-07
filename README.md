@@ -1,7 +1,7 @@
 # 2020-02-26-pagedown-tutorial
 Materials for the R-Ladies Chicago Pagedown resume tutorial: Part 1/3 of our Career Series. 
 
-## [Google Slides for the pagedown tutorial:](http://bit.ly/2HWAYhG)
+## [Google Slides for the pagedown tutorial](http://bit.ly/2HWAYhG)
 
 # Additional Resources:
 - [rstudio::conf 2019 slidedeck](https://slides.yihui.org/2019-rstudio-conf-pagedown.html#1) The presentation that started it all
