@@ -3,6 +3,8 @@ Materials for the R-Ladies Chicago Pagedown resume tutorial: Part 1/3 of our Car
 
 ## [Google Slides for the pagedown tutorial](http://bit.ly/2HWAYhG)
 
+![Required Materials](https://github.com/rladies-chicago/2020-02-26-pagedown-tutorial/blob/master/Required%20Materials.PNG)
+
 # Additional Resources:
 - [rstudio::conf 2019 slidedeck](https://slides.yihui.org/2019-rstudio-conf-pagedown.html#1) The presentation that started it all
 - [Pagedown package documentation](https://rstudio.github.io/pagedown/) The package's documentation
